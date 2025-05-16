@@ -4,12 +4,12 @@ Este repositório contém implementações em Java de várias estruturas de dado
 
 ## Estruturas implementadas
 
-✅ Lista Linear Simplesmente Encadeada
-✅ Lista Linear Duplamente Encadeada
-✅ Pilha por contiguidade
-✅ Fila Circular
-✅ Recursividade
-✅ Árvore Binária
+✅ Lista Linear Simplesmente Encadeada  
+✅ Lista Linear Duplamente Encadeada  
+✅ Pilha por contiguidade  
+✅ Fila Circular  
+✅ Recursividade  
+✅ Árvore Binária  
 
 ## Objetivo
 
