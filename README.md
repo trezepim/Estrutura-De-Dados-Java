@@ -1,4 +1,4 @@
-# Estrutura-De-Dados-Java
+# Projeto Java - Estrutura de Dados
 
 Este repositório contém implementações em Java de várias estruturas de dados, desenvolvidas com fins educacionais durante meus estudos.
 
