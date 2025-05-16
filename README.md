@@ -1,6 +1,7 @@
 # 🎲 Projeto Java - Estrutura de Dados
 
-Este repositório contém implementações em Java de várias estruturas de dados, desenvolvidas com fins educacionais durante meus estudos.
+Este repositório contém implementações em Java de várias estruturas de dados, desenvolvidas com fins educacionais durante meus estudos.  
+O projeto está dividido em pacotes separados por tipo de estrutura, facilitando a navegação e os testes.
 
 ## 💻 Estruturas implementadas
 
