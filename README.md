@@ -13,4 +13,4 @@ Este repositório contém implementações em Java de várias estruturas de dado
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto é consolidar o aprendizado sobre estruturas de dados fundamentais por meio da implementação manual de cada estrutura, sem o uso de bibliotecas prontas, focando na lógica, funcionamento e complexidade de cada uma.
+Aprimorar o aprendizado sobre estruturas de dados fundamentais por meio da implementação manual de cada estrutura, sem o uso de bibliotecas prontas, focando na lógica, funcionamento e complexidade de cada uma.
