@@ -14,5 +14,4 @@ O projeto está dividido em pacotes separados por tipo de estrutura, facilitando
 
 ## 🎯 Objetivo
 
-Aprimorar o aprendizado sobre estruturas de dados fundamentais por meio da implementação manual de cada estrutura,  
-sem o uso de bibliotecas prontas, focando na lógica, funcionamento e complexidade de cada uma.
+Aprimorar o aprendizado sobre estruturas de dados fundamentais por meio da implementação manual de cada estrutura, sem o uso de bibliotecas prontas, focando na lógica, funcionamento e complexidade de cada uma.
